@@ -15,7 +15,7 @@ import java.awt.event.MouseEvent;
 
 
 public class HolaMundoVentana extends JFrame {
-
+//hereda de JFrame, es una ventana de Windows
 	private JPanel contentPane;
 	JLabel lblJulio;
 	JButton btnPulsar ;
